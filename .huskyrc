@@ -1,0 +1,5 @@
+{
+	"hooks": {
+		"pre-commit": "echo \"running eslint on staged files..\" && lint-staged"
+	}
+}
